@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [106.1.0] - 2024-10-24
+
+### Fixed
+- Updated file permissions on tools/packman/python.sh to make it executable
+
+
 ## [106.1.0] - 2024-10-21
 
 ### Fixed
